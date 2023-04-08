@@ -1,0 +1,42 @@
+body
+{
+   background-color: aquamarine;
+
+}
+h1
+{
+    color: rgb(81, 0, 255);
+    text-transform: uppercase;
+    font-style: oblique;
+    text-align: center;
+}
+table
+{
+    color: darkgreen;
+    text-align: center;
+}
+tr
+{
+    font-style: oblique;
+}
+input[type=button]{
+    width:60px;
+    height: 60px;
+    font-size: 30px;
+    font-weight: 700;
+    cursor: pointer;
+    color: crimson;
+    margin: 5px;
+    float: left;
+}
+input[type=text]{
+    width:260px;
+    height: 80px;
+    font-size: 30px;
+    font-weight: 700;
+    cursor: pointer;
+    color: hotpink;
+    margin: 5px;
+    box-sizing: border-box;
+    float: left;
+}
